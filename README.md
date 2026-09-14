@@ -4,6 +4,14 @@ Unofficial interactive study quiz for **ISACA Advanced in AI Risk (AAIR)**.
 
 > **Disclaimer:** This is an independent study aid. It is **not affiliated with, endorsed by, or sponsored by ISACA**. Questions are original practice items and are **not** copied from ISACA QAE or official exams. Always verify against the [official AAIR exam content outline](https://www.isaca.org/credentialing/aair/aair-exam-content-outline).
 
+## Enable GitHub Pages (one-time)
+
+If https://cjw-uk.github.io/AAIR-Quiz/ is not live yet, in the GitHub UI:
+
+**Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)` → Save**
+
+(The automation token used to push this repo lacked the `pages` scope, so Pages must be toggled once in the UI.)
+
 ## Live quiz
 
 - **GitHub Pages:** https://cjw-uk.github.io/AAIR-Quiz/
